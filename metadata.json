@@ -1,0 +1,6 @@
+{
+  "name": "NEO-BREAKOUT ULTRA",
+  "description": "High-tech neon breakout arcade game with segmented paddle, crystal bricks, laser blasters, and gravity balls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
